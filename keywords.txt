@@ -1,0 +1,4 @@
+sounds	KEYWORD1
+sounds	KEYWORD1
+
+play	KEYWORD2
