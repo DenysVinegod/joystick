@@ -18,6 +18,7 @@ class Sounds {
      * 4 - Height battery
      * -----------------------
      * 5 - Lost connection
+     * 6 - Connected
     */
     void play(byte melody);
   private:
